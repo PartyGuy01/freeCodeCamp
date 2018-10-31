@@ -5,7 +5,7 @@ title: Hover Selector
 
 The CSS `:hover` selector is one of many pseudo-classes that are used to style elements. 
 
-The :hover selector is used to select elements when you mouse over them.
+The :hover selector is used to select elements when you hover them with your mouse.
 
 The :hover selector can be used on all elements, not only on links.
 
